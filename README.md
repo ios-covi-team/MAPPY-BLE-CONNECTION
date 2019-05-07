@@ -25,7 +25,7 @@
 <img width="1149" alt="Screen Shot 2019-05-07 at 2 34 26 PM" src="https://user-images.githubusercontent.com/15991780/57281594-81d3d800-70d5-11e9-9fb5-fab2ab73eb81.png">
 
 - After the xcode auto generate a HudFramework.framework in root project folder
-<img width="551" alt="Screen Shot 2019-05-07 at 2 37 32 PM" src="https://user-images.githubusercontent.com/15991780/57281686-ac259580-70d5-11e9-9168-e49f93c35cb7.png">
+<img width="446" alt="Screen Shot 2019-05-07 at 3 13 05 PM" src="https://user-images.githubusercontent.com/15991780/57284053-a3838e00-70da-11e9-8dd4-f61040e78c0f.png">
 
 ## Installation
 ---- Manual ----
