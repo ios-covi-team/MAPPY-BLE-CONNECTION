@@ -1,4 +1,22 @@
-MIT License
+# MAPPY-BLE-CONNECTION
+
+## Features
+- Support communication bet BLE Device and MAPPY app.Because MAPPY company only support Android SDK and not iOS SDK. So if we want to communication on iOS we have to create a SDK by myself.And this framework resolved it.
+
+
+- This BLE SDK for iOS provides a framework for iOS developers to develop Bluetooth 4.0 Low Energy (aka BLE) Apps easily using a simeple TXRX Service for exchanging data. It is based on Apple's CoreBluetooth framework.
+
+- Connection to any device support BLE 4.0 above
+- Transmit data and receive data from device BLE
+- The app look for the peripherals, connect to one and then look for the services and characteristics.
+
+## Support
+- For iOS devices, only device support BLE 4.0 above.
+- iOS Deployment target 10.0 and above
+- Support Swift and Objective-C
+
+![a](https://user-images.githubusercontent.com/15991780/57281368-0e31cb00-70d5-11e9-9012-b55e5cdb40a4.png)
+
 
 Copyright (c) 2018 COVISOFT INCOPORATION
 
