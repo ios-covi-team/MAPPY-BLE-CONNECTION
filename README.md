@@ -1,7 +1,7 @@
 # MAPPY-BLE-CONNECTION
 
 ## Features
-- Support communication bet BLE Device and MAPPY app.Because MAPPY company only support Android SDK and not iOS SDK. So if we want to communication on iOS we have to create a SDK by myself.And this framework resolved it.
+- Support communication between BLE Device and MAPPY app.Because MAPPY company only support Android SDK and not iOS SDK. So if we want to communication on iOS we have to create a SDK by myself.And this framework resolved it.
 
 
 - This BLE SDK for iOS provides a framework for iOS developers to develop Bluetooth 4.0 Low Energy (aka BLE) Apps easily using a simeple TXRX Service for exchanging data. It is based on Apple's CoreBluetooth framework.
