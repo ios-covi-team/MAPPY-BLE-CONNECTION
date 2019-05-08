@@ -146,7 +146,8 @@
     [dateFormat setDateFormat:@"hh:mm a"];
     NSLocale *hourFomrat = [[NSLocale alloc] initWithLocaleIdentifier:@"en_US_POSIX"];
     dateFormat.locale = hourFomrat; // format 12h
-    
+    [dateFormat setTimeZone:[NSTimeZone timeZoneForSecondsFromGMT:0]];
+
     NSString *time = [dateFormat stringFromDate:date];
     return [time substringWithRange:NSMakeRange(6, 2)];
 }
